@@ -1,0 +1,47 @@
+name,email,city,company,phone,website,job_title,age,department
+Leanne Graham,Sincere@april.biz,Gwenborough,Romaguera-Crona,(111) 555-0100,romaguera.info,Software Engineer,28,Engineering
+Ervin Howell,Shanna@melissa.tv,Wisokyburgh,Heitger Group,(201) 555-0123,heigergroup.org,Product Manager,35,Product
+Clementine Bauch,Nathan@yesenia.net,McKenziehaven,Yesenia Inc,(310) 555-0199,yeseniainc.net,Data Analyst,26,Data
+Patricia Lebsack,Julianne.OConner@kory.org,South Elvis,Kory Ltd,(415) 555-0132,korylimited.biz,UX Designer,29,Design
+Chelsey Dietrich,Lucio_Hettinger@annie.ca,Roscoeview,Annie & Co,(503) 555-0171,annie-co.com,Backend Developer,31,Engineering
+Monica Mayer,monica@abril.com,Neverland,Abril Tech,(602) 555-0144,abril-tech.net,Frontend Developer,25,Engineering
+Aracely Considine,aracely.considine@vortex.net,Lebsackbury,Vortex Systems,(718) 555-0176,vortex-sys.org,DevOps Engineer,32,Infrastructure
+Matteo Dickinson,matteo@dicki.net,New Daphneborough,Dicki Corp,(816) 555-0141,dicki-corp.info,Scrum Master,34,Management
+Ariel Stehr,ariel@stehr.net,Wisokyburgh Heights,Stehr & Sons,(206) 555-0144,stehr-sons.biz,Marketing Manager,30,Marketing
+Kameron Mraz,kameron.mraz@kuphal.net,North Shanelle,Kuphal Industries,(253) 555-0169,kuphal-ind.com,Sales Representative,27,Sales
+Leonardo da Vinci,leonardo.vinci@renaissance.art,Florence,Renaissance Studios,(39) 555-0102,renaissance-studios.it,Creative Director,45,Design
+Ada Lovelace,ada.lovelace@analytical.org,London,Analytical Machines,+44 555-0115,analytical-machines.co.uk,Data Scientist,38,Data
+Alan Turing,alan.turing@computing.co.uk,Manchester,Computing Pioneers,(44) 555-0188,computing-pioneers.org,AI Researcher,42,Research
+Grace Hopper,grace.hopper@navy.mil,New Haven,Navy Tech Division,(203) 555-0191,navy-tech.gov,Systems Architect,50,Engineering
+Margaret Hamilton,margaret.hamilton@apollo.nasa,Houston,NASA Mission Control,(281) 555-0199,nasa-mission.gov,Project Lead,48,Project Management
+John Carmack,john@id.software,Madison,id Software Studios,(608) 555-0170,idsoftware.com,Senior Engineer,46,Engineering
+Elon Musk,elon@spacex.com,Hawthorne,SpaceX Inc,(310) 555-0188,spacex.com,CTO,52,Engineering
+Steve Wozniak,steve@apple.org,Cupertino,Apple Computer,(408) 555-0149,apple.com,Founder Advisor,74,Executive
+Sarah Chen,sarah.chen@cloudtech.io,San Francisco,CloudTech Solutions,(415) 555-0177,cloudtech-solutions.io,Cloud Architect,33,Infrastructure
+Marcus Johnson,marcus.j@midtown.dev,New York,Midtown Development,(212) 555-0156,midtown-dev.com,Tech Lead,29,Engineering
+Isabella Rodriguez,isabella.r@creative.es,Barcelona,Creative Spain Labs,(34) 555-0163,creative-spain.com,UX Researcher,27,Design
+Hiroshi Tanaka,hiroshi.t@innovation.jp,Tokyo,Innovation Hub Japan,(81) 555-0142,innovation-japan.jp,Product Strategist,41,Product
+Lisa Anderson,lisa.anderson@medtech.health,Boston,MedTech Solutions,(617) 555-0132,medtech-solutions.com,Healthcare Data Lead,39,Data
+Carlos Santos,carlos.santos@fintech.br,São Paulo,FinTech Brazil Inc,(11) 555-0168,fintech-brazil.com.br,Finance Systems Manager,36,Finance
+Anna Kowalski,anna.k@edutech.pl,Warsaw,EduTech Poland,(48) 555-0174,edutech-poland.eu,Learning Systems Designer,28,Education
+David Kim,david.k@ecommerce.kr,Seoul,K-Commerce Global,(82) 555-0183,kcommerce-global.kr,Operations Manager,43,Operations
+Maria Gonzalez,maria.g@sustainable.mx,Mexico City,Sustainable Future MX,(55) 555-0169,sustainable-future.mx,Environmental Analyst,31,Sustainability
+James O'Connor,james.oconnor@automation.ie,Dublin,Automation Technologies,(353) 555-0151,automation-tech.ie,Robotics Engineer,44,Engineering
+Sophie Dubois,sophie.d@fashion.fr,Paris,Fashion Analytics AI,(33) 555-0176,fashion-analytics.fr,Trend Analyst,26,Marketing
+Robert Mueller,robert.m@quantum.de,Berlin,Quantum Computing Labs,(49) 555-0182,quantum-computing.de,Quantum Researcher,47,Research
+Emma Thompson,emma.t@logistics.uk,London,Logistics AI Platform,(44) 555-0158,logistics-ai.uk,Supply Chain Manager,37,Operations
+Antonio Rossi,antonio.r@automotive.it,Turin,Automotive Innovation,(39) 555-0164,automotive-innovation.it,Mechanical Engineer,40,Engineering
+Olga Volkova,olga.v@energytech.ru,Moscow,EnergyTech Solutions,(7) 555-0171,energytech-solutions.ru,Power Systems Designer,49,Infrastructure
+Nina Petrov,nina.p@security.ch,Zurich,CyberSecurity Elite,(41) 555-0193,cybersecurity-elite.ch,Security Architect,51,Security
+Oscar Zhang,oscar.z@agritech.cn,Shanghai,AgraTech Innovation,(86) 555-0189,agritech-innovation.cn,Agricultural Data Scientist,32,Data
+Paula Santos,paula.s@edtech.pt,Lisbon,EducationTech Portugal,(351) 555-0165,edtech-portugal.pt,Curriculum Developer,29,Education
+Quinn Li,quinn.li@biotech.sg,Singapore,BioTech Research Asia,(65) 555-0147,biotech-asia.com,Research Scientist,38,Research
+Rafael Costa,rafael.c@maritime.br,Rio de Janeiro,Maritime Technology,(21) 555-0162,maritime-technology.br,Navigation Systems Engineer,43,Engineering
+Sophia Müller,sophia.m@aiml.ch,Bern,AI/ML Research Switzerland,(41) 555-0186,aiml-research.ch,Machine Learning Engineer,27,Engineering
+Thomas Weber,thomas.w@smartcity.de,Munich,Smart City Solutions,(49) 555-0175,smartcity-solutions.de,Urban Planner Tech,45,Urban Planning
+Ursula König,ursula.k@climate.at,Vienna,ClimateAction Analytics,(43) 555-0161,climate-analytics.at,Climate Data Analyst,35,Environmental
+Vanessa Hart,vanessa.h@retail.uk,Manchester,RetailAI Systems,(44) 555-0198,retailai-systems.uk,Retail Strategy Manager,42,Business
+Walter Schmidt,walter.s@construction.de,Frankfurt,Construction Tech 4.0,(69) 555-0179,construction-tech4.de,Project Management Officer,48,Construction
+Ximena Ruiz,ximena.r@streaming.mx,Guadalajara,StreamingAI Mexico,(52) 555-0184,streaming-ai.mx,Content Algorithm Designer,30,Product
+Yuki Tanaka,yuki.t@gaming.jp,Osaka,GameTech Studio Japan,(81) 555-0190,gametech-studio.jp,Game Systems Designer,26,Gaming
+Zachary Brown,zachary.b@defense.us,Washington DC,Defense Tech Solutions,(202) 555-0192,defense-tech.gov,Security Clearance Engineer,53,Security
